@@ -1,0 +1,8 @@
+[gd_scene load_steps=2 format=3 uid="uid://bjh7xfhqknovx"]
+
+[ext_resource type="Texture2D" uid="uid://d35sw5scmte88" path="res://kenney_space-shooter-redux/PNG/Meteors/meteorBrown_big3.png" id="1_ll4o1"]
+
+[node name="Meteor" type="Node2D"]
+
+[node name="Sprite2D" type="Sprite2D" parent="."]
+texture = ExtResource("1_ll4o1")
